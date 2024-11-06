@@ -4,9 +4,9 @@
  #  NAME : SACHIN GC
  ---
   <h1>SKILLS</h1>
-    - Java
-    - HTML, CSS, Javascript
-    - Basics in Python  
+     Java<br>
+    - HTML, CSS, Javascript<br>
+    - Basics in Python <br>
 ---
 -EDUCATION
     - CSE | M S Ramaiah Institute of Technology	                                 CGPA:  9.07 | 2024
