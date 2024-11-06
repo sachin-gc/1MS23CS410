@@ -3,7 +3,7 @@
 
  #  NAME : SACHIN GC
  ---
-  <h1 style="color:red">SKILLS</h1>
+  <h1 style="backgroun-color:red">SKILLS</h1>
      Java<br>
     - HTML, CSS, Javascript<br>
     - Basics in Python <br>
