@@ -3,16 +3,16 @@
 
  #  NAME : SACHIN GC
  ---
-  <h1>SKILLS</h1>
+  <h1 style="color:red">SKILLS</h1>
      Java<br>
     - HTML, CSS, Javascript<br>
     - Basics in Python <br>
----
--EDUCATION
-    - CSE | M S Ramaiah Institute of Technology	                                 CGPA:  9.07 | 2024
-    - Diploma (ECE) | Govt Polytechnic, Tumakuru                                  CGPA:  9.73| 2023
-    - S T Mary’s English High School                                               92.16%| 2020    
----
+<hr>
+  <h1>EDUCATION</h1>
+    - CSE | M S Ramaiah Institute of Technology	                                 CGPA:  9.07 | 2024 <br>
+    - Diploma (ECE) | Govt Polytechnic, Tumakuru                                  CGPA:  9.73| 2023 <br>
+    - S T Mary’s English High School                                               92.16%| 2020    <br>
+<hr>
 
--ACHIEVEMENTS / HOBBIES
+  <h1>ACHIVEMENTS / HOBBIES</h1><br>
     - HTTP Flooding.
