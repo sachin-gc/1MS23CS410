@@ -1,8 +1,10 @@
-![download](https://github.com/user-attachments/assets/3cf64941-e3e9-43b6-8043-199ab98a5671)
+                                                           
 <html>
-  NAME : SACHIN GC
-   /sachin-gc
- ---
+                                                                   
+  <img src="https://github.com/user-attachments/assets/3cf64941-e3e9-43b6-8043-199ab98a5671">  
+  NAME : SACHIN GC <br>
+  /sachin-gc
+
   <h1>SKILLS</h1>
   <ul>
     <li>Java</li>
