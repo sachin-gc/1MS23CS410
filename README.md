@@ -4,15 +4,15 @@
  #  NAME : SACHIN GC
  ---
   SKILLS
-    • Java
-    • HTML, CSS, Javascript
-    • Basics in Python  
-    ---
-EDUCATION
-    • CSE | M S Ramaiah Institute of Technology	                                 CGPA:  9.07 | 2024
-    • Diploma (ECE) | Govt Polytechnic, Tumakuru                                  CGPA:  9.73| 2023
-    • S T Mary’s English High School                                               92.16%| 2020    
+    - Java
+    - HTML, CSS, Javascript
+    - Basics in Python  
+---
+-EDUCATION
+    - CSE | M S Ramaiah Institute of Technology	                                 CGPA:  9.07 | 2024
+    - Diploma (ECE) | Govt Polytechnic, Tumakuru                                  CGPA:  9.73| 2023
+    - S T Mary’s English High School                                               92.16%| 2020    
 ---
 
-ACHIEVEMENTS / HOBBIES
-    • HTTP Flooding.
+-ACHIEVEMENTS / HOBBIES
+    - HTTP Flooding.
